@@ -1,0 +1,22 @@
+.mala {
+  overflow: hidden;
+  max-height: 500px;
+  object-fit: cover;
+}
+
+.service-item > .icon {
+  background-size: cover;
+}
+.hero-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
+
+.member-content {
+  margin-top: 15px;
+}
